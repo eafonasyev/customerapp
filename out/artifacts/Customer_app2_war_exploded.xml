@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+  <dir sourceOnDisk="D:\working_dirictory\programming\java\project JAVA\Customer-app2\web" targetInArchive="/" />
+  <file sourceOnDisk="D:\working_dirictory\programming\java\project JAVA\Customer-app2\web\WEB-INF\web.xml" targetInArchive="/WEB-INF/web.xml" />
+  <dir sourceOnDisk="D:\working_dirictory\programming\java\project JAVA\Customer-app2\target\classes" targetInArchive="/WEB-INF/classes" />
+</archive>
+
